@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on [Shoperz - Meesho Clone](https://shoperz-co.netlify.app/)
 
 - 🌱 I’m currently learning **TypeScript**
+- 👨‍💻 All of my projects are available at [https://varun8177.github.io/](https://varun8177.github.io/)
 
 - 📫 How to reach me **varunergurala9999@gmail.com**
 
