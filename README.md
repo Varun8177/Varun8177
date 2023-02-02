@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 - 👨‍💻 All of my projects are available at [https://varun8177.github.io/](https://varun8177.github.io/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17cTzx5JO8LVlbzWnptj6L2Xp4sPyyx8_/view?usp=share_link](https://drive.google.com/file/d/17cTzx5JO8LVlbzWnptj6L2Xp4sPyyx8_/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
