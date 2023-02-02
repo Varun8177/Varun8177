@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **TypeScript**
 - 👨‍💻 All of my projects are available at [https://varun8177.github.io/](https://varun8177.github.io/)
 
-- 📫 How to reach me **varunergurala9999@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varun-ergurala-97253a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-ergurala-97253a243" height="30" width="40" /></a>
