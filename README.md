@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Varun Ergurala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img width="100%" alt="Make your README" src="https://github.com/Varun8177/Varun8177/assets/112754116/36e2f956-65e9-4d71-b460-6c69b8ddae80" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun8177&label=Profile%20views&color=0e75b6&style=flat" alt="varun8177" /> </p>
 
