@@ -21,7 +21,7 @@ e-signatures, government platforms, multilingual UX.
 
 ## ⚡ What I do
 
-- 🔏 Building **IndiSIgn** — AI-assisted e-signing platform at Hapticware
+- 🔏 Building **IndiSign** — AI-assisted e-signing platform at Hapticware
 - ✍️ Shipped **eSignPro by Protean** — Aadhaar-based e-signature flows for govt-grade document workflows
 - 🪪 Built **PAN 2.0** — high-traffic government platform (React.js)
 - 🏙️ Built **Wasalt** — multilingual real estate platform with RTL/Arabic layout support
@@ -37,17 +37,13 @@ Core        →  React.js · Next.js · TypeScript · JavaScript (ES6+)
 Styling     →  Tailwind CSS · CSS Modules · Styled Components
 State       →  Redux Toolkit · Zustand · React Query
 Tooling     →  Git · SonarQube (A grade, 0% issues) · Node.js · MongoDB
-AI Tools    →  Cursor · GitHub Copilot
+AI Tools    →  Cursor · Claude · GitHub Copilot
 ```
 
 ---
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=varun8177&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun8177&layout=compact&theme=default&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun8177&hide_border=true" />
