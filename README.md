@@ -26,7 +26,6 @@ e-signatures, government platforms, multilingual UX.
 - 🪪 Built **PAN 2.0** — high-traffic government platform (React.js)
 - 🏙️ Built **Wasalt** — multilingual real estate platform with RTL/Arabic layout support
 - 🤖 Daily driver: **Cursor + GitHub Copilot** for AI-augmented development
-- 🎓 BCA · Amity University Online (2027)
 
 ---
 
