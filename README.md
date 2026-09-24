@@ -25,7 +25,7 @@ e-signatures, government platforms, multilingual UX.
 - ✍️ Shipped **eSignPro by Protean** — Aadhaar-based e-signature flows for govt-grade document workflows
 - 🪪 Built **PAN 2.0** — high-traffic government platform (React.js)
 - 🏙️ Built **Wasalt** — multilingual real estate platform with RTL/Arabic layout support
-- 🤖 Daily driver: **Cursor + GitHub Copilot** for AI-augmented development
+- 🤖 Daily driver: **Claude** for AI-augmented development
 
 ---
 
