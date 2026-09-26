@@ -19,8 +19,7 @@ e-signature platforms, government systems, and AI agent tooling.
 ## What I work on
 
 - **IndiSign**: e-signature and document workflow platform.
-- **ExoQ**: AI agent platform. Built the agent and workflow canvas, knowledge base and chat
-  interfaces.
+- **ExoQ**: AI agent platform.
 - **eSignPro by Protean**: Aadhaar-based e-signature and eStamping flows for government-grade
   document processing.
 - **PAN 2.0**: wallet, invoicing and document-verification modules, delivered for government review.
