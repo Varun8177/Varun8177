@@ -2,7 +2,7 @@
 
 # Varun Ergurala
 
-**Frontend Developer (AI Systems)** · Hapticware Intelligence · Pune
+**Frontend Engineer (AI Systems)** · Hapticware Intelligence · Pune
 
 Frontend for document, signing and compliance-heavy products:
 e-signature platforms, government systems, and AI agent tooling.
